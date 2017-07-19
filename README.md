@@ -20,3 +20,4 @@ User -  capri:password
 ## References
 - [REST Security with JWT using Java and Spring Security](https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java) - DEJAN MILOSEVIC
 - [Cerberus](https://github.com/brahalla/Cerberus).
+- [JWT Angular Spring](https://github.com/nielsutrecht/jwt-angular-spring) - nielsutrecht
