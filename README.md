@@ -11,7 +11,7 @@ User -  capri:password
 
 ## Screenshot
 * Login 
-![Screenshot Login](etc/login.PNG?raw=true "Screenshot JWT Spring Login Demo")
+![Screenshot Login](etc/loginjoko.PNG?raw=true "Screenshot JWT Spring Login Demo")
 * Result
 ![Screenshot Result](etc/result.PNG?raw=true "Screenshot JWT Spring Result")
 * Test Token
